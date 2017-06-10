@@ -11,6 +11,7 @@ namespace Calculator
        
         public static void Main(string[] args)
         {
+            // Calculator
             // Creating local variables
             int userOption = 0;
             int firstNumber = 0;
